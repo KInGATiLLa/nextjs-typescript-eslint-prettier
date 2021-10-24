@@ -3,6 +3,5 @@
 module.exports = {
   reactStrictMode: true,
   poweredByHeader: false,
-  basePath: './',
-  webpack5: true,
+  webpack5: false,
 };
